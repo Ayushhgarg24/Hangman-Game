@@ -2,7 +2,7 @@
 
 A terminal-based Hangman game made with C++, featuring real-time input, ASCII UI, a scoring system, and persistent history tracking.
 
-![Banner](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF95&center=true&vCenter=true&width=435&lines=Guess+the+word...+or+get+hanged.)
+![Banner](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF95&center=true&vCenter=true&width=600&lines=Guess+the+word...+or+get+hanged.)
 
 ---
 
